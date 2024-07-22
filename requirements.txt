@@ -1,0 +1,9 @@
+llama-index
+langchain
+langchain-community
+sentence-transformers
+python-dotenv
+llama-index-llms-fireworks 
+ipykernel  
+huggingface-hub  
+streamlit
