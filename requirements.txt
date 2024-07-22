@@ -8,3 +8,4 @@ ipykernel
 huggingface-hub  
 streamlit
 llama-index-embeddings-langchain
+llama-index-llms-langchain
