@@ -7,3 +7,4 @@ llama-index-llms-fireworks
 ipykernel  
 huggingface-hub  
 streamlit
+llama-index-embeddings-langchain
