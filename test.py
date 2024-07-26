@@ -1,6 +1,6 @@
 import PyPDF2
 from llama_index.core import Document
-file_path = "../../goodfellow.pdf"
+file_path = "../../Jack_and_Jill.pdf"
 
 import os
 from dotenv import load_dotenv
